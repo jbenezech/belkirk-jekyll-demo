@@ -8,3 +8,8 @@ state: NY
 postal_code: 10006
 country: US
 twitter: forestryio
+menu:
+  footer:
+    weight: 1
+    parent: _posts
+    title: BLURP
