@@ -11,6 +11,6 @@ menu:
     parent: _posts
   navigation:
     identifier: _projects
-    weight: 4
+    weight: 3
 
 ---
